@@ -1,25 +1,45 @@
-Credit Card Transactions Report Insights
+__Credit Card Transactions Report Insights__
+
+
+
 •	Revenue Analysis
 The overall Sum of Revenue is currently at 55315410. 3 segments have significantly lower Revenue than others, and 6 segments have significantly higher Revenue.
+
 •	Interest-earned analysis
 The overall Sum of interest earned is currently at 7843382. The sum of interest earned for zip code 91750 and other segments is significantly higher than others.
+
 •	Total transactions amount analysis
 The overall sum of the total transaction amount is currently 44522013. 3 segments have a significantly lower Sum of total transaction amount than others, and 6 segments have a significantly higher Sum of total transaction amount.
+
 •	Total transaction count analysis
 The overall Sum of transaction count analysis is currently at 655651. 1 segments have a significantly lower Sum of transaction count analysis than others, and 5 segments have a significantly higher Sum of transaction count analysis.
 
-Credit card Customer Report Insights
+
+
+__Credit card Customer Report Insights__
+
 •	Recent anomaly in the Sum of Revenue
 The most recent Sum of Revenue anomaly was on Sunday, May 21, 2023, when Males had a high of 771655.
+
+
 •	Anomaly in the Sum of Revenue
 The sum of Revenue was unexpectedly high for Males on Sunday, May 21, 2023. It had a value of 771655, which is outside the expected range of 444305-769322.
+
+
 •	Significant anomaly in the Sum of Revenue
 Males had the most significant Sum of Revenue anomaly, a high of 771655 on Sunday, May 21, 2023.
 
-Trends & patterns
+
+
+__Trends & patterns__
+
 •	A recent trend in the Sum of Revenue
 The sum of Revenue for Females started trending down on Sunday, November 26, 2023, falling by 19.13% (88710) in 28 days.
+
+
 •	Steep trend in Sum of Revenue
 The sum of Revenue for Females dropped from 463821 to 375111 during its steepest decline between Sunday, November 26, 2023, and Sunday, December 24, 2023.
+
+
 •	Long trend in Sum of Revenue
 Males experienced the longest period of decline in the Sum of Revenue (-39173) between Sunday, July 30, 2023 and Sunday, December 17, 2023.
